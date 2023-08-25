@@ -1,0 +1,30 @@
+.container {
+  background-color: antiquewhite;
+  max-width: fit-content;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.myBackButton {
+  background-color: red;
+  color: white;
+  width: 90px;
+  color: white;
+}
+
+.myEditButton {
+    background-color: blue;
+    color: white;
+    width: 90px;
+    color: white;
+  }
+
+  .myUpdateButton {
+    background-color: green;
+    color: white;
+    width: 90px;
+    color: white;
+  }

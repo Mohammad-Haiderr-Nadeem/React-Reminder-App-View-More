@@ -1,0 +1,28 @@
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    border-style: none;
+    background-color: beige;
+    position: relative;
+  }
+  
+  .reminder-corner {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    display: none;
+  }
+  
+  .reminder-set .reminder-corner {
+    display: block;
+  }
+  
+  .myToggleButton{
+    background-color: blue;
+    color: white;
+    width: 90px;
+    padding: 5px;
+  }
